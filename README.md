@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Srinanth</h1>
-<h3 align="center">A passionate web developer from India,🎯 Focused on mastering full-stack development with a keen interest in secure APIs and UI/UX design using Tailwind CSS.</h3>
+<h3 align="center">A passionate web developer from India,🎯 Focused on mastering full-stack development with a keen interest in web security and UI/UX design using Tailwind CSS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinanth&label=Profile%20views&color=0e75b6&style=flat" alt="srinanth" /> </p>
 
