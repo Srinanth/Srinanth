@@ -1,3 +1,4 @@
+
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/touyaaaaa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.srinanth_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srinanth-mv) 
 
@@ -12,4 +13,5 @@
 ![](https://github-trophies.vercel.app/?username=Srinanth&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srinanth&label=Profile%20views&color=0e75b6&style=flat" alt="srinanth" /> </p>
 
