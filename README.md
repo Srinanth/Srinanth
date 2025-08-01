@@ -60,12 +60,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinanth&layout=compact&theme=radical&hide_border=false" width="48%" />
 </p>
 
----
+
 <p align="center">
   <img src="https://pacman.abozanona.me?username=Srinanth" />
 </p>
 
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=srinanth&label=Profile%20Views&color=0e75b6&style=flat" alt="srinanth" />
