@@ -48,7 +48,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23FF4C00.svg?style=flat&logo=n8n&logoColor=white)
-
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ---
 
 ## 📈 GitHub Stats
