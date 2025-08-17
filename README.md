@@ -54,12 +54,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srinanth&theme=radical&hide_border=false&show_icons=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srinanth&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Srinanth&theme=radical&hide_border=true&show_icons=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srinanth&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinanth&layout=compact&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinanth&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 
