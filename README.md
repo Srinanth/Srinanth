@@ -16,11 +16,11 @@
 
 ## 🧠 About Me
 
-- 🎯 Currently building full-stack web apps using **React**, **TypeScript**, and **Supabase**
-- 💡 Fascinated by **developer tools**, **AI interfaces**, and building emotional, interactive experiences
-- 🧠 Deeply interested in **Linux**, **cybersecurity**, and solving challenging **CTF puzzles**
-- 🕵️‍♂️ Passionate about finding flaws in web apps, breaking things (ethically), and learning from them
-- 🌱 Always learning — one bug, one build at a time!
+- 🎯 Building full-stack web apps with **React**, **TypeScript**, and **Supabase**  
+- 💡 Interested in **developer tools**, **AI-driven interfaces**, and creating interactive user experiences  
+- 🧠 Strong focus on **Linux**, **cybersecurity**, and solving **CTF challenges**  
+- 🕵️‍♂️ Enjoy analyzing web applications, identifying vulnerabilities, and understanding system behavior  
+- 🌱 Constantly improving my skills through projects, problem-solving, and exploration  
 
 
 ## 🛠️ Tech Stack
