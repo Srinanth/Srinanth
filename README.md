@@ -54,21 +54,34 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srinanth&theme=radical&hide_border=true&show_icons=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srinanth&theme=radical&hide_border=true" width="48%" />
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=srinanth&theme=radical&hide_border=true&show_icons=true" />
+    <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="48%" />
+  </picture>
+
+  <picture>
+    <source srcset="https://streak-stats.demolab.com/?user=srinanth&theme=radical&hide_border=true" />
+    <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="48%" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinanth&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=srinanth&layout=compact&theme=radical&hide_border=true" />
+    <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="48%" />
+  </picture>
 </p>
 
-
 <p align="center">
-  <img src="https://pacman.abozanona.me?username=Srinanth" />
+  <picture>
+    <source srcset="https://pacman.abozanona.me?username=srinanth" />
+    <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" />
+  </picture>
 </p>
 
-
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srinanth&label=Profile%20Views&color=0e75b6&style=flat" alt="srinanth" />
+  <picture>
+    <source srcset="https://komarev.com/ghpvc/?username=srinanth&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" />
+  </picture>
 </p>
