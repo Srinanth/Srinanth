@@ -50,7 +50,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ---
 
-## 📈 GitHub Stats
+# <img src="./assets/Data Analysis.gif" width="50px" height="50px"> Stats:
 
 <p align="center">
   <picture>
