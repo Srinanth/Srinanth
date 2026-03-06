@@ -53,22 +53,59 @@
 # <img src="./assets/Data Analysis.gif" width="50px" height="50px"> Stats:
 
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=srinanth&theme=radical&hide_border=true&show_icons=true" />
-    <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="48%" />
-  </picture>
+<picture>
+  <source srcset="https://github-readme-smoky.vercel.app/api?username=Srinanth&show_icons=true&count_private=true&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-smoky.vercel.app/api?username=Srinanth&show_icons=true&count_private=true&theme=buefy&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-smoky.vercel.app/api?username=Srinanth&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+</picture>
 
-  <picture>
-    <source srcset="https://streak-stats.demolab.com/?user=srinanth&theme=radical&hide_border=true" />
-    <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="48%" />
-  </picture>
-</p>
+<picture>
+  <source srcset="https://github-readme-streak-stats-two-ochre.vercel.app/?user=Srinanth&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-streak-stats-two-ochre.vercel.app/?user=Srinanth&theme=buefy&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-streak-stats-two-ochre.vercel.app/?user=Srinanth&theme=radical&hide_border=true" alt="GitHub streak stats" />
+</picture>
 
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=srinanth&layout=compact&theme=radical&hide_border=true" />
-    <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="48%" />
-  </picture>
+<picture>
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srinanth&theme=radical" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srinanth&theme=buefy" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srinanth&theme=radical" />
+</picture>
+
+<picture>
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srinanth&theme=radical" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srinanth&theme=buefy" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srinanth&theme=radical" />
+</picture>
+
+<picture>
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srinanth&theme=radical" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srinanth&theme=buefy" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srinanth&theme=radical" />
+</picture>
+
+<picture>
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srinanth&theme=radical" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srinanth&theme=buefy" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srinanth&theme=radical" />
+</picture>
+
+<picture>
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srinanth&theme=radical&utcOffset=5.5" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srinanth&theme=buefy&utcOffset=5.5" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srinanth&theme=radical&utcOffset=5.5" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Srinanth&theme=redical&hide_border=true&area=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Srinanth&hide_border=true&area=true&hide_title=true&bg_color=ffffff&color=000000&line=7957d5&point=7957d5"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img srcset="https://github-readme-activity-graph.vercel.app/graph?username=Srinanth&theme=redical&hide_border=true&area=true&hide_title=true" height="250" alt="Activity Graph" />
+</picture>
 </p>
 
 <p align="center">
