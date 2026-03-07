@@ -66,12 +66,6 @@
 </picture>
 
 <picture>
-  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srinanth&theme=radical" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srinanth&theme=buefy" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srinanth&theme=radical" />
-</picture>
-
-<picture>
   <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srinanth&theme=radical" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srinanth&theme=buefy" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srinanth&theme=radical" />
