@@ -78,18 +78,6 @@
 </picture>
 
 <picture>
-  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srinanth&theme=radical" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srinanth&theme=buefy" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srinanth&theme=radical" />
-</picture>
-
-<picture>
-  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srinanth&theme=radical&utcOffset=5.3" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srinanth&theme=buefy&utcOffset=5.3" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srinanth&theme=radical&utcOffset=5.3" />
-</picture>
-
-<picture>
   <source
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=Srinanth&theme=redical&hide_border=true&area=true&hide_title=true"
     media="(prefers-color-scheme: dark)"
