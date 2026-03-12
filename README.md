@@ -77,17 +77,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srinanth&theme=radical" />
 </picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Srinanth&theme=redical&hide_border=true&area=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Srinanth&hide_border=true&area=true&hide_title=true&bg_color=ffffff&color=000000&line=7957d5&point=7957d5"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img srcset="https://github-readme-activity-graph.vercel.app/graph?username=Srinanth&theme=redical&hide_border=true&area=true&hide_title=true" height="250" alt="Activity Graph" />
-</picture>
 </p>
 
 <p align="center">
