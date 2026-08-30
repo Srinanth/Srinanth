@@ -14,30 +14,32 @@ I am a Computer Science engineering student and Full Stack Developer focused pri
 ---
 
 ### <img src="https://api.iconify.design/octicon:code-24.svg?color=%2358a6ff" width="22" height="22" valign="middle" /> Tech Stack
-- **Languages & Frameworks**: TypeScript, JavaScript, Python, React, SvelteKit, Next.js, Node.js, Express, FastAPI
-- **Databases & Infrastructure**: PostgreSQL, MongoDB, SQLite, Supabase, Firebase, Cloudflare Workers (D1/R2), Docker, Git
-- **AI & Automation**: LLM Applications, RAG, AI Agent Orchestration, n8n, Google Gemini API
-- **Security**: Kali Linux, Burp Suite, Wireshark, CTFs
+- **Languages**: TypeScript, Python, Java, C
+- **Frontend**: React, SvelteKit, Tailwind CSS
+- **Backend**: Node.js, Express, FastAPI
+- **Data & Cloud**: PostgreSQL, MongoDB, SQLite, Supabase, Firestore, Cloudflare Workers, D1, R2
+- **AI & Automation**: RAG, Vector Search, AI Agents, n8n
+- **Security**: Kali Linux, Burp Suite, Wireshark
 
 ---
 
 ### <img src="https://api.iconify.design/octicon:rocket-24.svg?color=%2358a6ff" width="22" height="22" valign="middle" /> What I've Built
 
-#### <img src="https://api.iconify.design/octicon:home-24.svg?color=%238b949e" width="18" height="18" valign="middle" /> [Hostel Finder](https://github.com/Srinanth)
+#### <img src="https://api.iconify.design/octicon:home-24.svg?color=%238b949e" width="18" height="18" valign="middle" /> [Hostel Finder](https://hostelfindr.com/)
 *Student accommodation discovery platform serving over 5,000+ monthly visits.*
 - Built with SvelteKit and Cloudflare's serverless infrastructure (Workers, D1, R2).
 - Built core systems for accommodation discovery, subscription payments, referrals, SEO, and administration.
 
-#### <img src="https://api.iconify.design/octicon:cpu-24.svg?color=%238b949e" width="18" height="18" valign="middle" /> [Assignment Agent](https://github.com/Srinanth)
+#### <img src="https://api.iconify.design/octicon:cpu-24.svg?color=%238b949e" width="18" height="18" valign="middle" /> [Assignment Agent](https://github.com/Srinanth/AI-Agent)
 *AI-powered automation system for processing document and image submissions.*
 - Powered by FastAPI, n8n workflows, Python, and the Google Gemini API.
 - Automates assignment processing from uploaded documents and images through AI-generated responses and multi-step workflows.
 
-#### <img src="https://api.iconify.design/octicon:file-directory-24.svg?color=%238b949e" width="18" height="18" valign="middle" /> [TempSpace](https://github.com/Srinanth)
+#### <img src="https://api.iconify.design/octicon:file-directory-24.svg?color=%238b949e" width="18" height="18" valign="middle" /> [TempSpace](https://github.com/Srinanth/TempSpace)
 *Minimalist, authentication-free temporary file-sharing platform.*
 - Features short-code based spaces, auto-expiration, and secure file deletion.
 
-#### <img src="https://api.iconify.design/octicon:package-24.svg?color=%238b949e" width="18" height="18" valign="middle" /> [Ani-JS](https://github.com/Srinanth)
+#### <img src="https://api.iconify.design/octicon:package-24.svg?color=%238b949e" width="18" height="18" valign="middle" /> [Ani-JS](https://github.com/Srinanth/Ani-Js)
 *Lightweight JavaScript animation library published as an npm package.*
 - Provides utility-style animation classes for building interactive UI.
 
