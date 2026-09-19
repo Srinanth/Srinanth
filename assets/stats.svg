@@ -93,7 +93,7 @@
     <g class="streak-row" transform="translate(0, 75)">
       <path class="icon" d="M8 1.25a.75.75 0 0 1 .44.144l2.5 1.833a4.75 4.75 0 0 1 1.81 3.773c0 2.76-2.24 5-5 5s-5-2.24-5-5a4.75 4.75 0 0 1 1.81-3.773l2.5-1.833A.75.75 0 0 1 8 1.25Zm0 2.052L6.155 4.67a3.25 3.25 0 0 0-1.405 2.58C4.75 8.94 6.205 10.25 8 10.25s3.25-1.31 3.25-3A3.25 3.25 0 0 0 9.845 4.67L8 3.302Z" transform="scale(1.1)"/>
       <text x="25" y="12" class="stat-label">Current Streak</text>
-      <text x="210" y="12" class="stat-value" fill="#ff7b72">5 days</text>
+      <text x="210" y="12" class="stat-value" fill="#ff7b72">0 days</text>
     </g>
 
     <g class="streak-row" transform="translate(0, 115)">
